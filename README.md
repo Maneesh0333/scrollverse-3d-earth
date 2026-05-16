@@ -33,9 +33,6 @@ The website combines **Three.js-powered 3D rendering**, **GSAP ScrollTrigger ani
 
 
 ## 🎥 Demo
-https://github.com/user-attachments/assets/8734ebad-bff3-4195-905c-c3970f5aae61
-
-
-
+https://github.com/user-attachments/assets/4d5c0ef7-a44e-4cc6-bda4-e847d7bb02a4
 
 
